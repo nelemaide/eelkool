@@ -63,7 +63,7 @@ h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
 }
 
 h1 {
-  font-size: 5.75em
+  font-size: 5.18em
 }
 
 h2 {
@@ -165,7 +165,7 @@ ul.alt li:first-child {
 #header .avatar img {
   border-radius: 100%;
   display: block;
-  width: 17em
+  width: 16.2em
 }
 
 @media screen and (max-width:1280px) {
@@ -190,4 +190,3 @@ ul {
   margin-inline-end: 42px !important;
   padding-inline-start: 0 !important
 }
-
