@@ -9,34 +9,16 @@ h1, h2 {
   vertical-align: baseline
 }
 
-body {
-  line-height: 1
-}
-
 ul {
   list-style: none
 }
 
-body {
-  -webkit-text-size-adjust: none
-}
 
 body {
-  -ms-overflow-style: scrollbar
-}
-
-
-@media screen and (max-width:480px) {
-  body, html {
-    min-width: 320px
-  }
-}
-
-body {
-  background-color: #a9f8fb
-}
-
-body {
+  -webkit-text-size-adjust: none;
+  -ms-text-size-adjust: none;
+  -ms-overflow-style: scrollbar;
+  background-color: #a9f8fb !important;
   color: rgba(255, 255, 255, .65);
   font-family: "Source Sans Pro", Helvetica, sans-serif;
   font-size: 13pt;
